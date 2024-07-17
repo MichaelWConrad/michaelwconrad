@@ -1,0 +1,26 @@
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Java
+target/
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+
+# Build and Distribution directories
+dist/
+build/
